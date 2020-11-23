@@ -1,14 +1,16 @@
+  
 body {
-    background-color: red;
+  background-color: tan;
+  font-size: 90%;
+  font-family: sans-serif;
+  margin-left: 10%;
 }
-h1{
-      color: orange;
-      text-align: center;
-     }
-    h2{
-        color:green;
-        text-align: center;   
-    }
-    h3{
-        color: yellow;
-    } 
+h2, h3 {
+  font-family: serif;
+  color: green;
+font-size: 1.3em;
+font-weight: lighter;
+}
+.denumire {
+  color: red; 
+}
